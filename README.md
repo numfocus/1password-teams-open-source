@@ -446,3 +446,6 @@ https://github.com/perl6
 
 ### NumFOCUS
 [NumFOCUS](https://numfocus.org) provides a stable, independent, and professional home for the [open source projects](https://numfocus.org/sponsored-projects) powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.
+
+### PyMC
+[PyMC](https://www.pymc.io/welcome.html) is a probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods.
