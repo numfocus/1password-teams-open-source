@@ -452,3 +452,6 @@ https://github.com/perl6
 
 ### Conda
 [https://github.com/conda](Conda) is a language agnostic, open source package management system and environment management system for Windows, macOS, and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer.
+
+### TARDIS RT
+[https://github.com/tardis-sn](TARDIS) is an open-source Monte Carlo radiative-transfer spectral synthesis code for 1D models of supernova ejecta. It is designed for rapid spectral modelling of supernovae. It is developed and maintained by a multi-disciplinary team including software engineers, computer scientists, statisticians, and astrophysicists.
