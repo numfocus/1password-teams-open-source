@@ -455,3 +455,6 @@ https://github.com/perl6
 
 ### TARDIS RT
 [https://github.com/tardis-sn](TARDIS) is an open-source Monte Carlo radiative-transfer spectral synthesis code for 1D models of supernova ejecta. It is designed for rapid spectral modelling of supernovae. It is developed and maintained by a multi-disciplinary team including software engineers, computer scientists, statisticians, and astrophysicists.
+
+### MDAnalysis
+[MDAnalysis](https://www.mdanalysis.org/) is a Python library for the analysis of computer simulations of many-body systems at the molecular scale, spanning use cases from interactions of drugs with proteins to novel materials. It is widely used in the scientific community and is written by scientists for scientists.
